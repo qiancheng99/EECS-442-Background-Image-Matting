@@ -1,0 +1,1 @@
+# EECS-442-Background-Image-Matting
